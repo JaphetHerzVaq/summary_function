@@ -1,0 +1,17 @@
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.so
+.DS_Store
+*.swp
+*.bak
+*.tmp
+node_modules/
+*.log
